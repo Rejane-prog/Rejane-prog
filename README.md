@@ -1,4 +1,4 @@
-# Rejane <img src="https://i.pinimg.com/originals/9b/9f/cc/9b9fcc326812b9dd91049a19f25bce8d.gif" width="60px">
+# Rejane <img src="https://i.gifer.com/3vIU.gif" width="60px">
 
 Eu me chamo <strong>Rejane</strong>, <strong>tenho 19 anos e atualmente estou cursando ADS, sistemas de Informação e Programação.</strong> 👨🏻‍💻 
 
