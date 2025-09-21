@@ -1,6 +1,6 @@
 #  Ola seja bem vindo!! <img src="https://www.bing.com/th/id/OGC.be70d60d26b378d96de8cb3e31b7e8f2?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fa4%2fc4%2f7d%2fa4c47d0fd9bfa16b96f1c6c285d50331.gif&ehk=cykDKvlTfLAUMfOKu38cdmkD3PxP8%2fFQI%2fLL5c9WSXM%3d" width="60px">
 
-Eu me chamo <strong>Rejane</strong>, <strong>tenho 19 anos e atualmente estou cursando ADS, sistemas de Informação e Programação.</strong> 👨🏻‍💻 
+Eu me chamo <strong>Rejane</strong>, <strong>, tenho 19 anos. Estudante de ADS no Senac (Embarque Digital) e Sistemas de Informação na UFRPE. Interessada em cibersegurança e dev full stack</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Linguagem de Programação com python</strong>
 
